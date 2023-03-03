@@ -1,5 +1,6 @@
-mod linear_search;
+mod search;
 
 fn main() {
     println!("Hello, world!");
 }
+

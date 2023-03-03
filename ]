@@ -1,0 +1,7 @@
+
+Console is in 'commands' mode, prefix expressions with '?'.
+[debug-adapter stderr] [adapter\src\terminal.rs:101] winapi::um::wincon::FreeConsole() = 1
+[debug-adapter stderr] [adapter\src\terminal.rs:102] winapi::um::wincon::AttachConsole(pid) = 1
+[adapter\src\terminal.rs:109] winapi::um::wincon::FreeConsole() = 1
+[2023-03-03T18:57:27.450Z ERROR codelldb::debug_session] executable module does not exist
+Launching: 
